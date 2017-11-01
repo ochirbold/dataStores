@@ -1,0 +1,11 @@
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\bin\Debug\netcoreapp2.0\DataStoresProject.deps.json
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\bin\Debug\netcoreapp2.0\DataStoresProject.runtimeconfig.json
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\bin\Debug\netcoreapp2.0\DataStoresProject.runtimeconfig.dev.json
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\bin\Debug\netcoreapp2.0\DataStoresProject.dll
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\obj\Debug\netcoreapp2.0\DataStoresProject.csprojResolveAssemblyReference.cache
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\obj\Debug\netcoreapp2.0\DataStoresProject.csproj.CoreCompileInputs.cache
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\obj\Debug\netcoreapp2.0\DataStoresProject.AssemblyInfoInputs.cache
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\obj\Debug\netcoreapp2.0\DataStoresProject.AssemblyInfo.cs
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\bin\Debug\netcoreapp2.0\DataStoresProject.pdb
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\obj\Debug\netcoreapp2.0\DataStoresProject.dll
+C:\Users\chogo\source\repos\dataStores\DataStoresProject\DataStoresProject\obj\Debug\netcoreapp2.0\DataStoresProject.pdb
